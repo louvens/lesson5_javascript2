@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+24, 2017
 
 ### Student Name:  
-(First and Last Name)
+Louvens Merilien
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Program that tells the user which IRS tax bracket they are in.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://louvens.github.io/lesson5_javascript2/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that I can write my own procedures, called functions, which refer to a related group of JavaScript statements that are executed as a single unit.
+2. I can use a global variable that is declared outside a function and it will be available to all parts of my program.
+3. If I want to exit a control statement I can use a break statement.
